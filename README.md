@@ -1,5 +1,5 @@
-![Snake animation](https://github.com/EuLira/EuLira/blob/output/github-contribution-grid-snake.svg)
-
+# Olá, me chamo Herrysson ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 - 👋 Hi, I’m @EuLira
 - 👀 I’m interested in ...
@@ -9,6 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Estou aprendendo
+
+<img loading="lazy" src="https://icongr.am/devicon/python-original.svg?size=100&color=ed0c0c" width="40" height="40"/>
 
 <!---
 EuLira/EuLira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
