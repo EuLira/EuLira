@@ -11,7 +11,9 @@
 
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://icongr.am/devicon/windows8-original.svg?size=100&color=ed0c0c" width="40" height="40"/>  <img loading="lazy" src="[https://icongr.am/devicon/linux-original.svg?size=100&color=ed0c0c](https://devicon-website.vercel.app/api/linux/original.svg)" width="40" height="40"/> 
+<img loading="lazy" src="https://icongr.am/devicon/windows8-original.svg?size=100&color=ed0c0c" width="40" height="40"/>  <img loading="lazy" src="https://devicon-website.vercel.app/api/linux/plain.svg" width="40" height="40"/> 
+
+
 
 ## Estou aprendendo
 
