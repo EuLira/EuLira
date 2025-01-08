@@ -1,6 +1,10 @@
 # Olá, me chamo Herrysson ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+https://tenor.com/pt-BR/view/dog-laptop-type-gif-10696260
+
+<div class="tenor-gif-embed" data-postid="10696260" data-share-method="host" data-aspect-ratio="1.82482" data-width="100%"><a href="https://tenor.com/view/dog-laptop-type-gif-10696260">Dog Laptop GIF</a>from <a href="https://tenor.com/search/dog-gifs">Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 👋 Hi, I’m @EuLira
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
